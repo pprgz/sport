@@ -51,7 +51,7 @@ export default defineConfig( {
   // 本地开发服务器配置
   server: {
     host: '0.0.0.0',
-    port: 81, // 这里可以设置你想要的端口号
+    port: 2000, // 这里可以设置你想要的端口号
     open: true
   },
 } );
